@@ -13,7 +13,7 @@ The Jupyter Python notebook Reported_Confidence_Distribution.ipynb displays a ge
 
 The Jupyter Python notebooks Correlation_SDAN.ipynb and Correlation_CloudResearch.ipynb summarize the correlation between meta_uncertainties and ambiguity_aversion parameter. Meta uncertainties were estimated for CPDM, CRDM, and CDD. In these scripts, we estimate correlation across these tasks with pearson and spearman coefficients.
 
-## Fitting CASENDRE model
+## Fitting CASANDRE model
 
 Adapted from Corey to fit CASENDRE model: https://github.com/gorislab/CASANDRE
 for meta-uncertainty
